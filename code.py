@@ -1,0 +1,1 @@
+print("ganesh+ entri course")
